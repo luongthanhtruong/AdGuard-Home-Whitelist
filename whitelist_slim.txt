@@ -1,3 +1,4 @@
 @@|*-*-*-*.brokendnssec.net^$important
 @@|*whoer.net^$important
 @@|*ddns.net^$important
+@@|*fortinet.com^$important
