@@ -1,2 +1,2 @@
 @@|*-*-*-*.brokendnssec.net^$important
-@@|*whoer.com^$important
+@@|*whoer.net^$important
