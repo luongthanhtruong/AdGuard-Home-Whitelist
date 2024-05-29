@@ -2,3 +2,4 @@
 @@|*whoer.net^$important
 @@|*ddns.net^$important
 @@|*fortinet.com^$important
+@@|*noip.com^$important
